@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\typecasting\bin\Debug\net8.0\typecasting.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\typecasting\bin\Debug\net8.0\typecasting.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\typecasting\bin\Debug\net8.0\typecasting.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\typecasting\bin\Debug\net8.0\typecasting.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\typecasting\bin\Debug\net8.0\typecasting.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\typecasting\obj\Debug\net8.0\typecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\typecasting\obj\Debug\net8.0\typecasting.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\typecasting\obj\Debug\net8.0\typecasting.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\typecasting\obj\Debug\net8.0\typecasting.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\typecasting\obj\Debug\net8.0\typecasting.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\typecasting\obj\Debug\net8.0\refint\typecasting.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\typecasting\obj\Debug\net8.0\typecasting.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\typecasting\obj\Debug\net8.0\typecasting.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\typecasting\obj\Debug\net8.0\ref\typecasting.dll

@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\exception_handling\bin\Debug\net8.0\exception_handling.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\exception_handling\bin\Debug\net8.0\exception_handling.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\exception_handling\bin\Debug\net8.0\exception_handling.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\exception_handling\bin\Debug\net8.0\exception_handling.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\exception_handling\bin\Debug\net8.0\exception_handling.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\exception_handling\obj\Debug\net8.0\exception_handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\exception_handling\obj\Debug\net8.0\exception_handling.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\exception_handling\obj\Debug\net8.0\exception_handling.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\exception_handling\obj\Debug\net8.0\exception_handling.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\exception_handling\obj\Debug\net8.0\exception_handling.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\exception_handling\obj\Debug\net8.0\refint\exception_handling.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\exception_handling\obj\Debug\net8.0\exception_handling.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\exception_handling\obj\Debug\net8.0\exception_handling.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\exception_handling\obj\Debug\net8.0\ref\exception_handling.dll

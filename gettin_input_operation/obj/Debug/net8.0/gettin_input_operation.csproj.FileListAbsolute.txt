@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\gettin_input_operation\bin\Debug\net8.0\gettin_input_operation.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\gettin_input_operation\bin\Debug\net8.0\gettin_input_operation.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\gettin_input_operation\bin\Debug\net8.0\gettin_input_operation.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\gettin_input_operation\bin\Debug\net8.0\gettin_input_operation.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\gettin_input_operation\bin\Debug\net8.0\gettin_input_operation.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\gettin_input_operation\obj\Debug\net8.0\gettin_input_operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\gettin_input_operation\obj\Debug\net8.0\gettin_input_operation.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\gettin_input_operation\obj\Debug\net8.0\gettin_input_operation.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\gettin_input_operation\obj\Debug\net8.0\gettin_input_operation.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\gettin_input_operation\obj\Debug\net8.0\gettin_input_operation.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\gettin_input_operation\obj\Debug\net8.0\refint\gettin_input_operation.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\gettin_input_operation\obj\Debug\net8.0\gettin_input_operation.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\gettin_input_operation\obj\Debug\net8.0\gettin_input_operation.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\gettin_input_operation\obj\Debug\net8.0\ref\gettin_input_operation.dll

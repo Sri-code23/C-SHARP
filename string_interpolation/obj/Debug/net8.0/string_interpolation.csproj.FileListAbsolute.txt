@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\string_interpolation\obj\Debug\net8.0\string_interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\string_interpolation\obj\Debug\net8.0\string_interpolation.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\string_interpolation\obj\Debug\net8.0\string_interpolation.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\string_interpolation\obj\Debug\net8.0\string_interpolation.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\string_interpolation\bin\Debug\net8.0\string_interpolation.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\string_interpolation\bin\Debug\net8.0\string_interpolation.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\string_interpolation\bin\Debug\net8.0\string_interpolation.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\string_interpolation\bin\Debug\net8.0\string_interpolation.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\string_interpolation\bin\Debug\net8.0\string_interpolation.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\string_interpolation\obj\Debug\net8.0\string_interpolation.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\string_interpolation\obj\Debug\net8.0\refint\string_interpolation.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\string_interpolation\obj\Debug\net8.0\string_interpolation.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\string_interpolation\obj\Debug\net8.0\string_interpolation.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\string_interpolation\obj\Debug\net8.0\ref\string_interpolation.dll

@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\threading\bin\Debug\net8.0\threading.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\threading\bin\Debug\net8.0\threading.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\threading\bin\Debug\net8.0\threading.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\threading\bin\Debug\net8.0\threading.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\threading\bin\Debug\net8.0\threading.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\threading\obj\Debug\net8.0\threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\threading\obj\Debug\net8.0\threading.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\threading\obj\Debug\net8.0\threading.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\threading\obj\Debug\net8.0\threading.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\threading\obj\Debug\net8.0\threading.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\threading\obj\Debug\net8.0\refint\threading.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\threading\obj\Debug\net8.0\threading.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\threading\obj\Debug\net8.0\threading.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\threading\obj\Debug\net8.0\ref\threading.dll

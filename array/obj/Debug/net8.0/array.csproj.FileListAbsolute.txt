@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array\bin\Debug\net8.0\array.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array\bin\Debug\net8.0\array.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array\bin\Debug\net8.0\array.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array\bin\Debug\net8.0\array.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array\bin\Debug\net8.0\array.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array\obj\Debug\net8.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array\obj\Debug\net8.0\array.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array\obj\Debug\net8.0\array.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array\obj\Debug\net8.0\array.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array\obj\Debug\net8.0\array.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array\obj\Debug\net8.0\refint\array.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array\obj\Debug\net8.0\array.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array\obj\Debug\net8.0\array.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array\obj\Debug\net8.0\ref\array.dll

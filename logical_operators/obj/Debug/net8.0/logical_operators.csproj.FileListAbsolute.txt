@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\logical_operators\obj\Debug\net8.0\logical_operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\logical_operators\obj\Debug\net8.0\logical_operators.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\logical_operators\obj\Debug\net8.0\logical_operators.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\logical_operators\obj\Debug\net8.0\logical_operators.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\logical_operators\bin\Debug\net8.0\logical_operators.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\logical_operators\bin\Debug\net8.0\logical_operators.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\logical_operators\bin\Debug\net8.0\logical_operators.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\logical_operators\bin\Debug\net8.0\logical_operators.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\logical_operators\bin\Debug\net8.0\logical_operators.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\logical_operators\obj\Debug\net8.0\logical_operators.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\logical_operators\obj\Debug\net8.0\refint\logical_operators.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\logical_operators\obj\Debug\net8.0\logical_operators.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\logical_operators\obj\Debug\net8.0\logical_operators.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\logical_operators\obj\Debug\net8.0\ref\logical_operators.dll

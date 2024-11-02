@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\arithmetic_operations\bin\Debug\net8.0\arithmetic_operations.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\arithmetic_operations\bin\Debug\net8.0\arithmetic_operations.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\arithmetic_operations\bin\Debug\net8.0\arithmetic_operations.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\arithmetic_operations\bin\Debug\net8.0\arithmetic_operations.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\arithmetic_operations\bin\Debug\net8.0\arithmetic_operations.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\arithmetic_operations\obj\Debug\net8.0\arithmetic_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\arithmetic_operations\obj\Debug\net8.0\arithmetic_operations.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\arithmetic_operations\obj\Debug\net8.0\arithmetic_operations.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\arithmetic_operations\obj\Debug\net8.0\arithmetic_operations.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\arithmetic_operations\obj\Debug\net8.0\arithmetic_operations.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\arithmetic_operations\obj\Debug\net8.0\refint\arithmetic_operations.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\arithmetic_operations\obj\Debug\net8.0\arithmetic_operations.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\arithmetic_operations\obj\Debug\net8.0\arithmetic_operations.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\arithmetic_operations\obj\Debug\net8.0\ref\arithmetic_operations.dll

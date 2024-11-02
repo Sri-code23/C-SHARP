@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\nested_loop\obj\Debug\net8.0\nested_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\nested_loop\obj\Debug\net8.0\nested_loop.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\nested_loop\obj\Debug\net8.0\nested_loop.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\nested_loop\obj\Debug\net8.0\nested_loop.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\nested_loop\bin\Debug\net8.0\nested_loop.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\nested_loop\bin\Debug\net8.0\nested_loop.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\nested_loop\bin\Debug\net8.0\nested_loop.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\nested_loop\bin\Debug\net8.0\nested_loop.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\nested_loop\bin\Debug\net8.0\nested_loop.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\nested_loop\obj\Debug\net8.0\nested_loop.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\nested_loop\obj\Debug\net8.0\refint\nested_loop.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\nested_loop\obj\Debug\net8.0\nested_loop.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\nested_loop\obj\Debug\net8.0\nested_loop.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\nested_loop\obj\Debug\net8.0\ref\nested_loop.dll

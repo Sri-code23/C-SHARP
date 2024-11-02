@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\simple_calculation\obj\Debug\net8.0\simple_calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\simple_calculation\obj\Debug\net8.0\simple_calculation.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\simple_calculation\obj\Debug\net8.0\simple_calculation.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\simple_calculation\obj\Debug\net8.0\simple_calculation.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\simple_calculation\bin\Debug\net8.0\simple_calculation.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\simple_calculation\bin\Debug\net8.0\simple_calculation.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\simple_calculation\bin\Debug\net8.0\simple_calculation.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\simple_calculation\bin\Debug\net8.0\simple_calculation.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\simple_calculation\bin\Debug\net8.0\simple_calculation.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\simple_calculation\obj\Debug\net8.0\simple_calculation.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\simple_calculation\obj\Debug\net8.0\refint\simple_calculation.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\simple_calculation\obj\Debug\net8.0\simple_calculation.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\simple_calculation\obj\Debug\net8.0\simple_calculation.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\simple_calculation\obj\Debug\net8.0\ref\simple_calculation.dll

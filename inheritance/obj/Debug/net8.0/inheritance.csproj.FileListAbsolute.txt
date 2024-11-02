@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\inheritance\bin\Debug\net8.0\inheritance.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\inheritance\bin\Debug\net8.0\inheritance.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\inheritance\bin\Debug\net8.0\inheritance.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\inheritance\bin\Debug\net8.0\inheritance.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\inheritance\obj\Debug\net8.0\inheritance.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\inheritance\obj\Debug\net8.0\inheritance.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\inheritance\obj\Debug\net8.0\ref\inheritance.dll

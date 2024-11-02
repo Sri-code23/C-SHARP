@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\constructors\obj\Debug\net8.0\constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\constructors\obj\Debug\net8.0\constructors.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\constructors\obj\Debug\net8.0\constructors.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\constructors\obj\Debug\net8.0\constructors.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\constructors\bin\Debug\net8.0\constructors.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\constructors\bin\Debug\net8.0\constructors.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\constructors\bin\Debug\net8.0\constructors.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\constructors\bin\Debug\net8.0\constructors.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\constructors\bin\Debug\net8.0\constructors.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\constructors\obj\Debug\net8.0\constructors.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\constructors\obj\Debug\net8.0\refint\constructors.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\constructors\obj\Debug\net8.0\constructors.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\constructors\obj\Debug\net8.0\constructors.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\constructors\obj\Debug\net8.0\ref\constructors.dll

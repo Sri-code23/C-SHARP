@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\abstract_classes\bin\Debug\net8.0\abstract_classes.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\abstract_classes\bin\Debug\net8.0\abstract_classes.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\abstract_classes\bin\Debug\net8.0\abstract_classes.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\abstract_classes\bin\Debug\net8.0\abstract_classes.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\abstract_classes\bin\Debug\net8.0\abstract_classes.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\abstract_classes\obj\Debug\net8.0\abstract_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\abstract_classes\obj\Debug\net8.0\abstract_classes.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\abstract_classes\obj\Debug\net8.0\abstract_classes.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\abstract_classes\obj\Debug\net8.0\abstract_classes.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\abstract_classes\obj\Debug\net8.0\abstract_classes.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\abstract_classes\obj\Debug\net8.0\refint\abstract_classes.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\abstract_classes\obj\Debug\net8.0\abstract_classes.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\abstract_classes\obj\Debug\net8.0\abstract_classes.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\abstract_classes\obj\Debug\net8.0\ref\abstract_classes.dll

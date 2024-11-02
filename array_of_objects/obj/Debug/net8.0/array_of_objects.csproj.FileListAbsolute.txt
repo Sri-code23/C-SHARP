@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array_of_objects\obj\Debug\net8.0\array_of_objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array_of_objects\obj\Debug\net8.0\array_of_objects.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array_of_objects\obj\Debug\net8.0\array_of_objects.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array_of_objects\obj\Debug\net8.0\array_of_objects.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array_of_objects\bin\Debug\net8.0\array_of_objects.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array_of_objects\bin\Debug\net8.0\array_of_objects.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array_of_objects\bin\Debug\net8.0\array_of_objects.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array_of_objects\bin\Debug\net8.0\array_of_objects.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array_of_objects\bin\Debug\net8.0\array_of_objects.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array_of_objects\obj\Debug\net8.0\array_of_objects.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array_of_objects\obj\Debug\net8.0\refint\array_of_objects.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array_of_objects\obj\Debug\net8.0\array_of_objects.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array_of_objects\obj\Debug\net8.0\array_of_objects.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\array_of_objects\obj\Debug\net8.0\ref\array_of_objects.dll

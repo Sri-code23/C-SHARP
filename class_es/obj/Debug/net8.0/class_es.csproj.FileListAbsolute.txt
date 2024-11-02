@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\class_es\bin\Debug\net8.0\class_es.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\class_es\bin\Debug\net8.0\class_es.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\class_es\bin\Debug\net8.0\class_es.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\class_es\bin\Debug\net8.0\class_es.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\class_es\bin\Debug\net8.0\class_es.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\class_es\obj\Debug\net8.0\class_es.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\class_es\obj\Debug\net8.0\class_es.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\class_es\obj\Debug\net8.0\class_es.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\class_es\obj\Debug\net8.0\class_es.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\class_es\obj\Debug\net8.0\class_es.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\class_es\obj\Debug\net8.0\refint\class_es.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\class_es\obj\Debug\net8.0\class_es.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\class_es\obj\Debug\net8.0\class_es.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\class_es\obj\Debug\net8.0\ref\class_es.dll

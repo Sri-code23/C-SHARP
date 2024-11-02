@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\static\obj\Debug\net8.0\static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\static\obj\Debug\net8.0\static.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\static\obj\Debug\net8.0\static.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\static\obj\Debug\net8.0\static.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\static\bin\Debug\net8.0\static.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\static\bin\Debug\net8.0\static.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\static\bin\Debug\net8.0\static.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\static\bin\Debug\net8.0\static.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\static\bin\Debug\net8.0\static.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\static\obj\Debug\net8.0\static.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\static\obj\Debug\net8.0\refint\static.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\static\obj\Debug\net8.0\static.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\static\obj\Debug\net8.0\static.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\static\obj\Debug\net8.0\ref\static.dll

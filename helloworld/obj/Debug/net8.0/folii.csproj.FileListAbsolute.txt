@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\folii\obj\Debug\net8.0\folii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\folii\obj\Debug\net8.0\folii.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\folii\obj\Debug\net8.0\folii.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\folii\obj\Debug\net8.0\folii.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\folii\bin\Debug\net8.0\folii.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\folii\bin\Debug\net8.0\folii.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\folii\bin\Debug\net8.0\folii.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\folii\bin\Debug\net8.0\folii.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\folii\bin\Debug\net8.0\folii.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\folii\obj\Debug\net8.0\folii.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\folii\obj\Debug\net8.0\refint\folii.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\folii\obj\Debug\net8.0\folii.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\folii\obj\Debug\net8.0\folii.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\folii\obj\Debug\net8.0\ref\folii.dll

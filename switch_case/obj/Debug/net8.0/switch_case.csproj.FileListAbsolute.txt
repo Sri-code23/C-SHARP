@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\switch_case\bin\Debug\net8.0\switch_case.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\switch_case\bin\Debug\net8.0\switch_case.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\switch_case\bin\Debug\net8.0\switch_case.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\switch_case\bin\Debug\net8.0\switch_case.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\switch_case\bin\Debug\net8.0\switch_case.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\switch_case\obj\Debug\net8.0\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\switch_case\obj\Debug\net8.0\switch_case.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\switch_case\obj\Debug\net8.0\switch_case.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\switch_case\obj\Debug\net8.0\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\switch_case\obj\Debug\net8.0\switch_case.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\switch_case\obj\Debug\net8.0\refint\switch_case.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\switch_case\obj\Debug\net8.0\switch_case.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\switch_case\obj\Debug\net8.0\switch_case.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\switch_case\obj\Debug\net8.0\ref\switch_case.dll

@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\guess_game\bin\Debug\net8.0\guess_game.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\guess_game\bin\Debug\net8.0\guess_game.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\guess_game\bin\Debug\net8.0\guess_game.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\guess_game\bin\Debug\net8.0\guess_game.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\guess_game\bin\Debug\net8.0\guess_game.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\guess_game\obj\Debug\net8.0\guess_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\guess_game\obj\Debug\net8.0\guess_game.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\guess_game\obj\Debug\net8.0\guess_game.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\guess_game\obj\Debug\net8.0\guess_game.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\guess_game\obj\Debug\net8.0\guess_game.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\guess_game\obj\Debug\net8.0\refint\guess_game.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\guess_game\obj\Debug\net8.0\guess_game.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\guess_game\obj\Debug\net8.0\guess_game.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\guess_game\obj\Debug\net8.0\ref\guess_game.dll

@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\conditional_operator\bin\Debug\net8.0\conditional_operator.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\conditional_operator\bin\Debug\net8.0\conditional_operator.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\conditional_operator\bin\Debug\net8.0\conditional_operator.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\conditional_operator\bin\Debug\net8.0\conditional_operator.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\conditional_operator\bin\Debug\net8.0\conditional_operator.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\conditional_operator\obj\Debug\net8.0\conditional_operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\conditional_operator\obj\Debug\net8.0\conditional_operator.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\conditional_operator\obj\Debug\net8.0\conditional_operator.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\conditional_operator\obj\Debug\net8.0\conditional_operator.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\conditional_operator\obj\Debug\net8.0\conditional_operator.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\conditional_operator\obj\Debug\net8.0\refint\conditional_operator.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\conditional_operator\obj\Debug\net8.0\conditional_operator.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\conditional_operator\obj\Debug\net8.0\conditional_operator.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\conditional_operator\obj\Debug\net8.0\ref\conditional_operator.dll

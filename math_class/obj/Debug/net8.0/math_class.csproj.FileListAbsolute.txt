@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\math_class\obj\Debug\net8.0\math_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\math_class\obj\Debug\net8.0\math_class.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\math_class\obj\Debug\net8.0\math_class.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\math_class\obj\Debug\net8.0\math_class.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\math_class\bin\Debug\net8.0\math_class.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\math_class\bin\Debug\net8.0\math_class.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\math_class\bin\Debug\net8.0\math_class.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\math_class\bin\Debug\net8.0\math_class.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\math_class\bin\Debug\net8.0\math_class.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\math_class\obj\Debug\net8.0\math_class.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\math_class\obj\Debug\net8.0\refint\math_class.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\math_class\obj\Debug\net8.0\math_class.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\math_class\obj\Debug\net8.0\math_class.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\math_class\obj\Debug\net8.0\ref\math_class.dll

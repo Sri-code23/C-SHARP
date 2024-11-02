@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\params_keyword\obj\Debug\net8.0\params_keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\params_keyword\obj\Debug\net8.0\params_keyword.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\params_keyword\obj\Debug\net8.0\params_keyword.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\params_keyword\obj\Debug\net8.0\params_keyword.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\params_keyword\bin\Debug\net8.0\params_keyword.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\params_keyword\bin\Debug\net8.0\params_keyword.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\params_keyword\bin\Debug\net8.0\params_keyword.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\params_keyword\bin\Debug\net8.0\params_keyword.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\params_keyword\bin\Debug\net8.0\params_keyword.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\params_keyword\obj\Debug\net8.0\params_keyword.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\params_keyword\obj\Debug\net8.0\refint\params_keyword.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\params_keyword\obj\Debug\net8.0\params_keyword.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\params_keyword\obj\Debug\net8.0\params_keyword.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\params_keyword\obj\Debug\net8.0\ref\params_keyword.dll

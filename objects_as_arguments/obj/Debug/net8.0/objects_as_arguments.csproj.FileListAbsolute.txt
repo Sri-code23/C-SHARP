@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\objects_as_arguments\bin\Debug\net8.0\objects_as_arguments.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\objects_as_arguments\bin\Debug\net8.0\objects_as_arguments.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\objects_as_arguments\bin\Debug\net8.0\objects_as_arguments.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\objects_as_arguments\bin\Debug\net8.0\objects_as_arguments.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\objects_as_arguments\bin\Debug\net8.0\objects_as_arguments.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\objects_as_arguments\obj\Debug\net8.0\objects_as_arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\objects_as_arguments\obj\Debug\net8.0\objects_as_arguments.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\objects_as_arguments\obj\Debug\net8.0\objects_as_arguments.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\objects_as_arguments\obj\Debug\net8.0\objects_as_arguments.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\objects_as_arguments\obj\Debug\net8.0\objects_as_arguments.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\objects_as_arguments\obj\Debug\net8.0\refint\objects_as_arguments.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\objects_as_arguments\obj\Debug\net8.0\objects_as_arguments.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\objects_as_arguments\obj\Debug\net8.0\objects_as_arguments.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\objects_as_arguments\obj\Debug\net8.0\ref\objects_as_arguments.dll

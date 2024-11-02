@@ -1,0 +1,14 @@
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\rock_paper_scissor\bin\Debug\net8.0\rock_paper_scissor.exe
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\rock_paper_scissor\bin\Debug\net8.0\rock_paper_scissor.deps.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\rock_paper_scissor\bin\Debug\net8.0\rock_paper_scissor.runtimeconfig.json
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\rock_paper_scissor\bin\Debug\net8.0\rock_paper_scissor.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\rock_paper_scissor\bin\Debug\net8.0\rock_paper_scissor.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\rock_paper_scissor\obj\Debug\net8.0\rock_paper_scissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\rock_paper_scissor\obj\Debug\net8.0\rock_paper_scissor.AssemblyInfoInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\rock_paper_scissor\obj\Debug\net8.0\rock_paper_scissor.AssemblyInfo.cs
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\rock_paper_scissor\obj\Debug\net8.0\rock_paper_scissor.csproj.CoreCompileInputs.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\rock_paper_scissor\obj\Debug\net8.0\rock_paper_scissor.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\rock_paper_scissor\obj\Debug\net8.0\refint\rock_paper_scissor.dll
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\rock_paper_scissor\obj\Debug\net8.0\rock_paper_scissor.pdb
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\rock_paper_scissor\obj\Debug\net8.0\rock_paper_scissor.genruntimeconfig.cache
+C:\Users\vaath\OneDrive\Desktop\MY FILES\C O D E S\C-sharp\rock_paper_scissor\obj\Debug\net8.0\ref\rock_paper_scissor.dll
