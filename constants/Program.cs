@@ -17,6 +17,8 @@ class Program
         const double pi = 3.14;
 
         // Print the value of pi to the console
-        Console.WriteLine(pi);
+        // Console.WriteLine(pi);
+        Console.WriteLine($"{pi+1}")
     }
 }
+//output 
