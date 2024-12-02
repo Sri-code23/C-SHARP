@@ -23,3 +23,5 @@ it is called automamtically when the class is called,
 
 
 Void - indicates that a method does not return a value
++++++++++++
+http:/github.com/Sri-code23/C_SHARP/blob/master/logical_operators/Program.cs
