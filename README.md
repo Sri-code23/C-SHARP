@@ -141,7 +141,7 @@ bool result = true || false;
 // Not
 bool result = !true;
 ```
-### Refer[[C# file](http:/github.com/Sri-code23/C_SHARP/blob/master/logical_operators/Program.cs)]
+### Refer[[C# file](http://github.com/Sri-code23/C_SHARP/blob/master/logical_operators/Program.cs)]
 
 ### Assignment Operators
 
