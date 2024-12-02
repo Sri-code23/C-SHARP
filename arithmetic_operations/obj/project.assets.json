@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\arithmetic_operations\\arithmetic_operations.csproj",
+      "projectUniqueName": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\arithmetic_operations\\arithmetic_operations.csproj",
       "projectName": "arithmetic_operations",
-      "projectPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\arithmetic_operations\\arithmetic_operations.csproj",
+      "projectPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\arithmetic_operations\\arithmetic_operations.csproj",
       "packagesPath": "C:\\Users\\vaath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\arithmetic_operations\\obj\\",
+      "outputPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\arithmetic_operations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vaath\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\example_for_basics\\example_for_basics.csproj",
+      "projectUniqueName": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\example_for_basics\\example_for_basics.csproj",
       "projectName": "example_for_basics",
-      "projectPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\example_for_basics\\example_for_basics.csproj",
+      "projectPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\example_for_basics\\example_for_basics.csproj",
       "packagesPath": "C:\\Users\\vaath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\example_for_basics\\obj\\",
+      "outputPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\example_for_basics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vaath\\AppData\\Roaming\\NuGet\\NuGet.Config"

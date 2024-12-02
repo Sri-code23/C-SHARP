@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\typecasting\\typecasting.csproj": {}
+    "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\typecasting\\typecasting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\typecasting\\typecasting.csproj": {
+    "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\typecasting\\typecasting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\typecasting\\typecasting.csproj",
+        "projectUniqueName": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\typecasting\\typecasting.csproj",
         "projectName": "typecasting",
-        "projectPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\typecasting\\typecasting.csproj",
+        "projectPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\typecasting\\typecasting.csproj",
         "packagesPath": "C:\\Users\\vaath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\typecasting\\obj\\",
+        "outputPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\typecasting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vaath\\AppData\\Roaming\\NuGet\\NuGet.Config"

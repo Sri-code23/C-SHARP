@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\math_class\\math_class.csproj",
+      "projectUniqueName": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\math_class\\math_class.csproj",
       "projectName": "math_class",
-      "projectPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\math_class\\math_class.csproj",
+      "projectPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\math_class\\math_class.csproj",
       "packagesPath": "C:\\Users\\vaath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\math_class\\obj\\",
+      "outputPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\math_class\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vaath\\AppData\\Roaming\\NuGet\\NuGet.Config"

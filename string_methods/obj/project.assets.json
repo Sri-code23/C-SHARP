@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\string_methods\\string_methods.csproj",
+      "projectUniqueName": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\string_methods\\string_methods.csproj",
       "projectName": "string_methods",
-      "projectPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\string_methods\\string_methods.csproj",
+      "projectPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\string_methods\\string_methods.csproj",
       "packagesPath": "C:\\Users\\vaath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\string_methods\\obj\\",
+      "outputPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\string_methods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vaath\\AppData\\Roaming\\NuGet\\NuGet.Config"

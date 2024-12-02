@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\simple_calculation\\simple_calculation.csproj": {}
+    "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\simple_calculation\\simple_calculation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\simple_calculation\\simple_calculation.csproj": {
+    "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\simple_calculation\\simple_calculation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\simple_calculation\\simple_calculation.csproj",
+        "projectUniqueName": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\simple_calculation\\simple_calculation.csproj",
         "projectName": "simple_calculation",
-        "projectPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\simple_calculation\\simple_calculation.csproj",
+        "projectPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\simple_calculation\\simple_calculation.csproj",
         "packagesPath": "C:\\Users\\vaath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C-sharp\\simple_calculation\\obj\\",
+        "outputPath": "C:\\Users\\vaath\\OneDrive\\Desktop\\MY FILES\\C O D E S\\C_SHARP\\simple_calculation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vaath\\AppData\\Roaming\\NuGet\\NuGet.Config"

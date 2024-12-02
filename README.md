@@ -4,21 +4,35 @@
 ## Table of Contents
 -----------------
 
-* [Variables and Data Types](#variables-and-data-types)
-* [Operators](#operators)
-* [Control Structures](#control-structures)
-* [Methods](#methods)
-* [Classes and Objects](#classes-and-objects)
-* [Inheritance](#inheritance)
-* [Polymorphism](#polymorphism)
-* [Encapsulation](#encapsulation)
-* [Abstraction](#abstraction)
-* [Interfaces](#interfaces)
-* [Exception Handling](#exception-handling)
-* [File Input/Output](#file-input/output)
-* [Multithreading](#multithreading)
-* [Generics](#generics)
-* [LINQ](#linq)
+- [C# Concepts and Examples](#c-concepts-and-examples)
+  - [Table of Contents](#table-of-contents)
+  - [Variables and Data Types](#variables-and-data-types)
+    - [Variables](#variables)
+    - [Data Types](#data-types)
+  - [Operators](#operators)
+    - [Arithmetic Operators](#arithmetic-operators)
+    - [Comparison Operators](#comparison-operators)
+    - [Logical Operators](#logical-operators)
+    - [reference C# file](#reference-c-file)
+    - [Assignment Operators](#assignment-operators)
+  - [Control Structures](#control-structures)
+    - [Conditional Statements](#conditional-statements)
+    - [Loops](#loops)
+  - [Methods](#methods)
+  - [Classes and Objects](#classes-and-objects)
+  - [Inheritance](#inheritance)
+  - [Polymorphism](#polymorphism)
+  - [Encapsulation](#encapsulation)
+  - [Abstraction](#abstraction)
+  - [Interfaces](#interfaces)
+  - [Exception Handling](#exception-handling)
+  - [File Input/Output](#file-inputoutput)
+  - [Multithreading](#multithreading)
+  - [Generics](#generics)
+  - [LINQ](#linq)
+  - [Async/Await](#asyncawait)
+  - [Lambda Expressions](#lambda-expressions)
+  - [Extension Methods](#extension-methods)
 
 ## Variables and Data Types
 ---------------------------
@@ -127,6 +141,7 @@ bool result = true || false;
 // Not
 bool result = !true;
 ```
+### reference [C# file]("C_SHARP\logical_operators\Program.cs")
 
 ### Assignment Operators
 
