@@ -13,7 +13,6 @@
     - [Arithmetic Operators](#arithmetic-operators)
     - [Comparison Operators](#comparison-operators)
     - [Logical Operators](#logical-operators)
-    - [Refer\[C# file\]](#referc-file)
     - [Assignment Operators](#assignment-operators)
   - [Control Structures](#control-structures)
     - [Conditional Statements](#conditional-statements)
@@ -141,7 +140,7 @@ bool result = true || false;
 // Not
 bool result = !true;
 ```
-### Refer[[C# file](http://github.com/Sri-code23/C_SHARP/blob/master/logical_operators/Program.cs)]
+Refer[ [C# file ](http://github.com/Sri-code23/C_SHARP/blob/master/logical_operators/Program.cs)]
 
 ### Assignment Operators
 
