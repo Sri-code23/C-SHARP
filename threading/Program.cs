@@ -18,7 +18,7 @@ class Program
             Console.WriteLine(i);
             Thread.Sleep(1000);
         }
-    } 
+    }
 
     public static void  letters()
     {

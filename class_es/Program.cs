@@ -10,9 +10,8 @@ class Program
 
         class_name greet= new class_name();
         greet.method_name(name,age);
-
+        
     }
-
 }
 /*
 Namespaces - help organize code and prevent naming conflicts.

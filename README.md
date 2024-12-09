@@ -9,6 +9,7 @@
   - [Variables and Data Types](#variables-and-data-types)
     - [Variables](#variables)
     - [Data Types](#data-types)
+  - [Basic structure](#basic-structure)
   - [Operators](#operators)
     - [Arithmetic Operators](#arithmetic-operators)
     - [Comparison Operators](#comparison-operators)
@@ -77,6 +78,46 @@ bool myBool = true;
 // String
 string myString = "Hello, World!";
 ```
+## Basic structure
+```csharp
+using System; // This line is importing the System namespace, which contains fundamental classes and types in the .NET Framework.
+
+namespace namespace_name // This line is declaring a namespace, which is a way to organize related classes, interfaces, and other types in .NET.
+{
+    public class class_name 
+    // This line is declaring a public class, which is a blueprint for creating objects. The 'public' access modifier means it can be accessed from any part of the program.
+    {
+        public void method_name(string name, int age) 
+        // This line is declaring a public method, which is a block of code that can be called multiple times from different parts of the program. 
+        //The 'public' access modifier means it can be accessed from any part of the program. The method takes two parameters: a string 'name' and an integer 'age'.
+        {
+            // The code inside this method will be executed when the method is called.
+        }
+    }
+}
+```
+```csharp
+
+using System;
+
+namespace namespace_name
+{
+    class class_name
+    {
+        static void Main(string[] args)
+        {
+             //remaining code   
+
+        }
+    }
+}
+
+```
+
+
+
+
+
 
 ## Operators
 ------------
@@ -212,6 +253,8 @@ switch (myVariable)
         break;
 }
 ```
+Refer [ [C# file ](http://github.com/Sri-code23/C-SHARP/blob/master/if_else_statements/Program.cs)]
+
 
 ### Loops
 
@@ -247,6 +290,9 @@ foreach (int item in myArray)
     Console.WriteLine(item);
 }
 ```
+Refer [ [C# file ](http://github.com/Sri-code23/C-SHARP/blob/master/for_loop/Program.cs)]
+Refer [ [C# file ](http://github.com/Sri-code23/C-SHARP/blob/master/for_each/Program.cs)]
+
 
 ## Methods
 ---------
@@ -272,6 +318,7 @@ int MyMethod(int myParameter)
     return myParameter * 2;
 }
 ```
+Refer [ [C# file ](http://github.com/Sri-code23/C-SHARP/blob/master/methods/Program.cs)]
 
 ## Classes and Objects
 ----------------------
@@ -295,6 +342,7 @@ MyClass myObject = new MyClass();
 myObject.MyProperty = 10;
 myObject.MyMethod();
 ```
+Refer [ [C# file ](http://github.com/Sri-code23/C-SHARP/blob/master/objects/Program.cs)]
 
 ## Inheritance
 -------------
@@ -326,6 +374,9 @@ myDog.Eat();
 myDog.Bark();
 ```
 
+Refer [ [C# file ](http://github.com/Sri-code23/C-SHARP/blob/master/inheritance/Program.cs)]
+
+
 ## Polymorphism
 --------------
 
@@ -354,6 +405,9 @@ public class Dog : Animal
 Animal myAnimal = new Dog();
 myAnimal.Sound();
 ```
+
+Refer [ [C# file ](http://github.com/Sri-code23/C-SHARP/blob/master/polymorphism/Program.cs)]
+
 
 ## Encapsulation
 --------------
@@ -429,6 +483,8 @@ public class MyClass : IMyInterface
 IMyInterface myObject = new MyClass();
 myObject.MyMethod();
 ```
+Refer [ [C# file ](http://github.com/Sri-code23/C-SHARP/blob/master/interfaces/Program.cs)]
+
 
 ## Exception Handling
 --------------------
@@ -460,6 +516,7 @@ finally
     Console.WriteLine("Finally block executed...");
 }
 ```
+Refer [ [C# file ](http://github.com/Sri-code23/C-SHARP/blob/master/exception_handling/Program.cs)]
 
 ## File Input/Output
 --------------------
@@ -591,5 +648,4 @@ public static class MyExtensions
 // Calling the extension method
 "Hello, World!".MyExtensionMethod();
 ```
-
 
