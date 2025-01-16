@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("folii")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+103b2c6ad32a0be408c997e14cc4c88043dce1ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70d3b9f30d7a1b98c8be9d9dcad1e51719e4e5c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("folii")]
 [assembly: System.Reflection.AssemblyTitleAttribute("folii")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
